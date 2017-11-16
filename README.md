@@ -3,6 +3,9 @@
 ##简介
 这是一个使用SkyRTC和SkyRTC-client搭建浏览器中音频、视频、文字聊天室的Demo
 
+说明：  
+  - node 环境下，下载本项目，`npm i`, `node server.js` 即可，浏览器打开：localhost:3000#1
+
 ##安装和使用
 1. 安装Node.js及npm环境
 2. 下载源码到本地，并解压缩
